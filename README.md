@@ -1,10 +1,8 @@
 # PipelineFlux
 
-----------
-
 ## Descrição
 
-Este projeto é uma implementação do padrão ["Chain of Responsibility"]([https://link](https://refactoring.guru/design-patterns/chain-of-responsibility)) para aplicações C#.
+Este projeto é uma implementação do padrão ["Chain of Responsibility"](https://refactoring.guru/design-patterns/chain-of-responsibility) para aplicações C#.
 
 ### IContext
 
@@ -18,7 +16,7 @@ Este projeto é uma implementação do padrão ["Chain of Responsibility"]([http
 
     To be defined.
 
-## Exemplo de uso em um teste com [XUnit]([https://link](https://xunit.net))
+## Exemplo de uso em um teste com [XUnit](https://xunit.net)
 
 ```C#
 var expectedResult = 2;
